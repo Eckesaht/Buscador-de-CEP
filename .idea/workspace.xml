@@ -5,21 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20354a65-867e-4167-9b8e-928a711d0671" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ApiController.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ApiModel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/EnderecoModel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/EnderecosJson.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Excecao.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Main.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/buscadordecep/controller/ApiController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/buscadordecep/model/ApiModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/buscadordecep/model/EnderecoModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/buscadordecep/record/Endereco.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buscador-de-CEP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Buscador-de-CEP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/TipoIncorreto.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/buscadordecep/view/MainView.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

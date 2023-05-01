@@ -10,8 +10,13 @@ Projeto feito a partir da utilização das classes Java para consumo de APIs (Cl
 ![Main.png](img%2FMain.png)
 ![EnderecosJson.png](img%2FEnderecosJson.png)
 
+# Classes e pacotes utilizados
+![Arquitetura.png](img%2FArquitetura.png)
+
+<br>
 
 ## Detalhes do projeto
+
 ### Uso das classes Http-client, request e response para o consumo da API
 ![ApiModel.png](img%2FApiModel.png)
 
@@ -28,3 +33,7 @@ Projeto feito a partir da utilização das classes Java para consumo de APIs (Cl
 ![Record1.png](img%2FRecord1.png)
 ![Record2.png](img%2FRecord2.png)
 ![Record3.png](img%2FRecord3.png)
+
+### Serializar corretamente os atributos para seus respectivos tipos primitivos (no momento todos são serializados como strings)
+![TipoIncorreto.png](img%2FTipoIncorreto.png)
+![AtributosEmString.png](img%2FAtributosEmString.png)
