@@ -8,7 +8,7 @@ Projeto feito a partir da utilização das classes Java para consumo de APIs (Cl
 | :label: Tecnologias utilizadas | Java
 
 ![Main.png](img%2FMain.png)
-![EnderecosJson.png](img%2FEnderecosJson.png)
+![EnderecosJson.png](img%2FEnderecosJson.png#vitrinedev)
 
 # Classes e pacotes utilizados
 ![Arquitetura.png](img%2FArquitetura.png)
